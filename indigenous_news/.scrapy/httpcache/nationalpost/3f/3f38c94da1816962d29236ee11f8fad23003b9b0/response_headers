@@ -1,0 +1,23 @@
+Server: istio-envoy
+Date: Mon, 23 Sep 2024 02:24:00 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding,Accept-Language
+Expires: Mon, 23 Sep 2024 02:29:00 GMT
+Cache-Control: public, max-age=180
+Last-Modified: Mon, 23 Sep 2024 02:24:00 GMT
+X-Dcs-Cache-Page: MISS
+X-Frame-Options: SAMEORIGIN
+Content-Language: en
+Content-Security-Policy: default-src * 'unsafe-eval' 'unsafe-inline' data: blob:
+Permissions-Policy: autoplay=(*), camera=(*), display-capture=(*), encrypted-media=(*), fullscreen=(*), geolocation=(*), microphone=(*), payment=(*)
+Referrer-Policy: strict-origin-when-cross-origin
+X-Content-Type-Options: nosniff
+X-Envoy-Upstream-Service-Time: 203
+Access-Control-Allow-Origin: *
+X-Pmd-Cache: MISS
+X-Pmd-Backend: pmd-nginx-proxy-74bc784679-qblbz
+Strict-Transport-Security: max-age=31536000
+Content-Encoding: gzip
+X-Envoy-Decorator-Operation: pmd-nginx-proxy.nginx-proxy.svc.cluster.local:80/*
+Via: 1.1 google
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
